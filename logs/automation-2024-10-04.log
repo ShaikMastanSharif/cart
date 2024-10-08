@@ -1,0 +1,62 @@
+13:50:49.114 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:50:49.456 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:50:52.368 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:50:54.832 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:51:06.141 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:51:06.147 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:51:08.176 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:54:09.293 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:54:12.212 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:54:12.218 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:54:14.028 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:54:16.005 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:54:28.185 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:54:28.194 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:54:30.073 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:56:00.488 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:56:03.004 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:56:03.011 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:56:05.870 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:56:07.878 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:56:19.030 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+13:56:19.036 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+13:56:20.698 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:00:02.514 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+14:00:06.924 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:00:06.934 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+14:00:09.124 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:00:09.128 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+14:00:11.268 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:00:11.278 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+14:00:22.612 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:00:22.617 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+14:00:25.033 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:00:25.040 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+14:00:36.388 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:00:36.395 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+14:00:48.169 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+14:24:49.325 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+14:24:49.530 [main]  INFO testpage.Tc1AccountRegister - click is checked
+14:24:50.083 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+14:25:07.753 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+14:25:09.641 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+14:26:16.608 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+14:26:18.599 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+14:27:02.132 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+14:27:02.281 [main]  INFO testpage.Tc1AccountRegister - click is checked
+14:27:03.042 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+14:28:00.155 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+14:28:00.347 [main]  INFO testpage.Tc1AccountRegister - click is checked
+14:28:01.821 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+14:28:16.914 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+14:28:18.902 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+15:46:41.355 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+15:46:41.355 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+15:46:42.093 [main]  INFO testpage.Tc1AccountRegister - click is checked
+15:46:42.189 [main]  INFO testpage.Tc1AccountRegister - click is checked
+15:46:42.944 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+15:46:43.077 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+15:47:22.472 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+15:47:25.758 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+15:47:30.190 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+15:47:31.556 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed

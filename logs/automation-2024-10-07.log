@@ -1,0 +1,59 @@
+15:51:47.745 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+15:51:48.140 [main]  INFO testpage.Tc1AccountRegister - click is checked
+15:51:48.883 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+15:52:00.648 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+15:52:02.311 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+15:56:22.922 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+15:56:22.922 [main]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+15:56:28.146 [main]  INFO testpage.Tc1AccountRegister - click is checked
+15:56:28.146 [main]  INFO testpage.Tc1AccountRegister - click is checked
+15:56:28.809 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+15:56:28.837 [main]  INFO testpage.Tc1AccountRegister - accountdetails
+15:56:45.815 [main] ERROR testpage.Tc1AccountRegister - test is failed
+15:57:02.390 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+15:57:04.855 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+08:58:03.075 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+08:58:06.220 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+08:58:34.363 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+08:58:36.317 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+08:58:36.324 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+08:58:38.457 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+08:58:38.471 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+08:58:40.383 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+08:58:40.393 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+08:58:51.880 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+08:58:51.895 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+08:58:54.226 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+08:58:54.234 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+08:59:05.635 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+08:59:05.647 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+08:59:16.980 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:00:57.431 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+09:00:59.001 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+09:01:12.265 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:01:14.559 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:01:14.577 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:01:17.504 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:01:17.510 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:01:19.640 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:01:19.653 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:01:31.198 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:01:31.204 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:01:34.283 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:01:34.290 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:01:45.762 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:01:45.770 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:01:57.291 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:02:52.511 [TestNG-tests-1]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+09:02:52.648 [TestNG-tests-1]  INFO testpage.Tc1AccountRegister - click is checked
+09:02:55.054 [TestNG-tests-1]  INFO testpage.Tc1AccountRegister - accountdetails
+09:03:05.813 [TestNG-tests-2]  INFO testpage.Tc1AccountRegister - ***************** started accountregister
+09:03:07.708 [TestNG-tests-2]  INFO testpage.Tc1AccountRegister - click is checked
+09:03:08.369 [TestNG-tests-2]  INFO testpage.Tc1AccountRegister - accountdetails
+09:04:21.008 [main]  INFO testpage.Tc002_AccountLoginTest - *****starting Tc002_AcountLoginPage
+09:04:22.677 [main]  INFO testpage.Tc002_AccountLoginTest - ********** testing of Tc002 is Completed
+09:04:37.227 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:04:39.290 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:04:39.306 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
+09:04:41.485 [main]  INFO testpage.Tc003datadrivertest - **********ending the tc003
+09:04:41.494 [main]  INFO testpage.Tc003datadrivertest - ********staring tc003
